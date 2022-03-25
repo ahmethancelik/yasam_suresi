@@ -1,6 +1,6 @@
 # yeni_proje
 
-A new Flutter project.
+An app that I developed from Kod Planet Flutter Youtube series.
 
 ## Getting Started
 
